@@ -5,7 +5,7 @@ namespace GitDemoApp
     class Program
     {
         // Line 11: Target line for the merge conflict
-        private const string AppTitle = "AppTitle Dark Mode Enabled";
+        private const string AppTitle = "The Official Name (Dark Mode)";
 
         static void Main(string[] args)
         {
