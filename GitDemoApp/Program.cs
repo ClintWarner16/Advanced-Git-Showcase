@@ -16,7 +16,7 @@ namespace GitDemoApp
         static void DisplayWelcomeMessage()
         {
             // Line 20: Target line for the rebase/squash feature
-            Console.WriteLine("Version 1.0: Basic structure.");
+            Console.WriteLine("Version 1.1: Added sign in.");
         }
     }
 }
