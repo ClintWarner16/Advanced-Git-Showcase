@@ -5,7 +5,7 @@ namespace GitDemoApp
     class Program
     {
         // Line 11: Target line for the merge conflict
-        private const string AppTitle = "Git Demo App";
+        private const string AppTitle = "The Official Name";
 
         static void Main(string[] args)
         {
